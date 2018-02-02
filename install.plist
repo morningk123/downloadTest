@@ -12,7 +12,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://raw.githubusercontent.com/morningk123/downloadTest/master/menghuan.ipa</string>
+                        <string>https://raw.githubusercontent.com/morningk123/download_menghuan/master/menghuan.ipa</string>
                     </dict>
                     
                     <dict>
@@ -21,7 +21,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://raw.githubusercontent.com/morningk123/downloadTest/master/60.png</string>
+                        <string>https://raw.githubusercontent.com/morningk123/download_menghuan/master/60.png</string>
                     </dict>
                     
                     <dict>
@@ -30,7 +30,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://raw.githubusercontent.com/morningk123/downloadTest/master/60.png</string>
+                        <string>https://raw.githubusercontent.com/morningk123/download_menghuan/master/60.png</string>
                     </dict>
                 </array>
                 
