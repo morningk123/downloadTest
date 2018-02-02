@@ -12,7 +12,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://raw.githubusercontent.com/hellobc/downloadTest/master/tianyi.ipa</string>
+                        <string>https://raw.githubusercontent.com/morningk123/downloadTest/master/menghuan.ipa</string>
                     </dict>
                     
                     <dict>
@@ -21,7 +21,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://raw.githubusercontent.com/hellobc/downloadTest/master/60.png</string>
+                        <string>https://raw.githubusercontent.com/morningk123/downloadTest/master/60.png</string>
                     </dict>
                     
                     <dict>
@@ -30,7 +30,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://raw.githubusercontent.com/hellobc/downloadTest/master/60.png</string>
+                        <string>https://raw.githubusercontent.com/morningk123/downloadTest/master/60.png</string>
                     </dict>
                 </array>
                 
@@ -38,13 +38,13 @@
                 
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.tianyi.cs</string>
+                    <string>com.menghuan.cs</string>
                     <key>bundle-version</key>
-                    <string>1.0.4</string>
+                    <string>1.0.1</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>天易</string>
+                    <string>梦幻</string>
                 </dict>
                 
             </dict>
